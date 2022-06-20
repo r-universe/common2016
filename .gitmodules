@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "CHNCapitalStock"]
+	path = CHNCapitalStock
+	url = https://github.com/common2016/capitalstock
+	shallow = true
+	registered = true
