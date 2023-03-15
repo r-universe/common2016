@@ -2,5 +2,9 @@
   {
     "package": "CHNCapitalStock",
     "oncran": true
+  },
+  {
+    "package": "FAVAR",
+    "oncran": true
   }
 ]

@@ -8,3 +8,8 @@
 	url = https://github.com/common2016/capitalstock
 	shallow = true
 	registered = true
+[submodule "FAVAR"]
+	path = FAVAR
+	url = https://github.com/common2016/favar
+	shallow = true
+	registered = true
